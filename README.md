@@ -1,2 +1,2 @@
 # validacaodearquivo
-Validador de arquivos.
+Validador de arquivos. Exercício feito para a aula de lógica de programação e algoritmos da faculdade.
